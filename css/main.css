@@ -11,6 +11,13 @@ footer {
   margin-top: 1518px;
 }
 
+hr {
+  width: 70%;
+  position: absolute;
+  margin-left: 146px;
+  margin-top: -103px;
+}
+
 #first_section {
   color: white;
   margin: 0;
@@ -138,4 +145,24 @@ footer {
 .column3 {
   display: inline-block;
   margin: 0 97px 232px 62px;
+}
+
+.icons {
+  position: absolute;
+  display: inline-block;
+  margin-top: 40px;
+  width: 8%;
+  margin-left: 97px;
+}
+
+.apple {
+  padding: 10px;
+}
+
+.google {
+  padding: 10px;
+}
+
+.microsoft {
+  padding: 10px;
 }
