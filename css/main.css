@@ -1,0 +1,69 @@
+/* font-family: 'Montserrat', sans-serif; */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #ff00bf;
+}
+
+#first_section {
+  color: white;
+  margin: 0;
+  padding: 1px;
+}
+
+#first_section h3 {
+  font-size: 1.75rem;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.clear {
+  clear: both;
+}
+
+.main-image {
+  margin: 0;
+}
+
+.main-seccion {
+  background-image: url('../assets/images/hero.gif');
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+
+.grad1 {
+    height: 600px;
+    background: blue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#71228B, #2d1e67); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#71228B, #2d1e67); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#71228B, #2d1e67); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#71228B, #2d1e67); /* Standard syntax (must be last) */
+}
+
+.ml {
+  margin-left: 150px;
+  line-height: -30px;
+}
+
+.image {
+  margin-left: 687px;
+  margin-top: -451px;
+}
+
+.driven-image {
+  margin-left: 427px;
+  margin-top: -173px;
+}
