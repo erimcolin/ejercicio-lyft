@@ -17,6 +17,18 @@ a {
   font-size: 1.75rem;
 }
 
+#position {
+  position: fixed;
+  width: 97%;
+  margin: 0;
+  padding: 0;
+}
+
+#second_seccion .text {
+  display: inline-block;
+  position: absolute;
+}
+
 .float-left {
   float: left;
 }
@@ -63,7 +75,34 @@ a {
   margin-top: -451px;
 }
 
-.driven-image {
-  margin-left: 427px;
-  margin-top: -173px;
+.video1 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 434px;
+}
+
+.text-left {
+  display: inline-block;
+  position: absolute;
+  margin-top: 536px;
+  margin-left: 937px;
+}
+
+.video2 {
+  position: absolute;
+  display: inline-block;
+  margin-top: 506px;
+}
+
+.text-right {
+  position: absolute;
+  display: inline-block;
+  margin-top: 1012px;
+}
+
+.video3 {
+  position: absolute;
+  display: inline-block;
+  margin-top: 1012px;
+  margin-left: 506px;
 }
