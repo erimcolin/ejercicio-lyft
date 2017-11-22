@@ -7,6 +7,10 @@ a {
   color: #ff00bf;
 }
 
+footer {
+  margin-top: 1518px;
+}
+
 #first_section {
   color: white;
   margin: 0;
@@ -27,6 +31,20 @@ a {
 #second_seccion .text {
   display: inline-block;
   position: absolute;
+}
+
+#last_section h4 {
+  text-transform: uppercase;
+}
+
+#last_section p {
+  text-transform: capitalize;
+}
+
+#last_section {
+  padding: 57px;
+  background-color: #333447;
+  color: white;
 }
 
 .float-left {
@@ -104,5 +122,20 @@ a {
   position: absolute;
   display: inline-block;
   margin-top: 1012px;
-  margin-left: 506px;
+  margin-left: 434px;
+}
+
+.column1 {
+  display: inline-block;
+  margin: 0 97px 232px 62px;
+}
+
+.column2 {
+  display: inline-block;
+  margin: 0 97px 232px 62px;
+}
+
+.column3 {
+  display: inline-block;
+  margin: 0 97px 232px 62px;
 }
