@@ -54,6 +54,10 @@ hr {
   color: white;
 }
 
+#last_section p:hover {
+  color: #FF00B9;
+}
+
 .float-left {
   float: left;
 }
